@@ -1,4 +1,4 @@
-#先pip install twilio
+#先安裝:pip install twilio
 
 from twilio.rest import Client
 
