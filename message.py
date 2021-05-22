@@ -1,3 +1,5 @@
+#先pip install twilio
+
 from twilio.rest import Client
 
 account_sid="AC8900e6afc2933ddd57cf41c72e272dba"
